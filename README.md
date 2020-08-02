@@ -18,3 +18,7 @@ Here, we extract real time data from a smartphone’s accelerometer (mainly velo
 And the activities recorded are as follows:
 
 ![image](https://user-images.githubusercontent.com/66628385/89117424-50ee7880-d4bb-11ea-81ad-42f5316c43ea.png)
+
+# Experimental procedure:
+
+
