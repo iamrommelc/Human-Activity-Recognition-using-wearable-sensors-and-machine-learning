@@ -36,6 +36,12 @@ And the activities recorded are as follows:
 
 # Inventory:
 
+a. Neural-Network(HAR Net) code
+b. Standard classifiers code (Decision Tree, SVM, LDA, LR, Naive Bayes, Random Forest, KNN, K-means)
+c. Results of Neural Network
+d. Results of Standard Classifiers
+e. Readme
+f. License
 
 # Keywords:
 
