@@ -21,4 +21,7 @@ And the activities recorded are as follows:
 
 # Experimental procedure:
 
+![image](https://user-images.githubusercontent.com/66628385/89117585-85166900-d4bc-11ea-8972-4ef6068d5e0b.png)
+
+
 
