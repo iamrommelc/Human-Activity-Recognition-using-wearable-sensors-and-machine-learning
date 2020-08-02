@@ -30,11 +30,16 @@ And the activities recorded are as follows:
 5. On the analysis of the performance, the best performing model is selected on the basis of certain matrices and the model is used for multi-label classification.
 6. The evaluation is performed and results are analysed accordingly.
 
-## The custom Neural Network model (HAR-Net):
+### The custom Neural Network model (HAR-Net):
 
 ![image](https://user-images.githubusercontent.com/66628385/89117816-83e63b80-d4be-11ea-9f86-787ad8dae6d4.png)
 
+# Inventory:
 
+
+# Keywords:
+
+Activity Recognition, Smartphone, Sensors, Multi-label classification, Neural Network, Machine Learning
 
 
 
