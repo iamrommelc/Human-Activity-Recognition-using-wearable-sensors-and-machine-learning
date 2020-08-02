@@ -14,4 +14,7 @@ Here, we extract real time data from a smartphone’s accelerometer (mainly velo
 7. X_sd
 8. Y_sd
 9. Z_fd
+
 And the activities recorded are as follows:
+
+![image](https://user-images.githubusercontent.com/66628385/89117424-50ee7880-d4bb-11ea-81ad-42f5316c43ea.png)
