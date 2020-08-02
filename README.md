@@ -23,5 +23,15 @@ And the activities recorded are as follows:
 
 ![image](https://user-images.githubusercontent.com/66628385/89117585-85166900-d4bc-11ea-8972-4ef6068d5e0b.png)
 
+1. First, using third party software, raw accelerometer data is recorded from the accelerometer sensor of smartphone.
+2. Using raw data, activity wise labelling is done and rows are shuffled randomly to build our dataset.
+3. Unnecessary outliers are removed.
+4. Further, the dataset is split into 80:20 ratio and trained on state-of-the-art classifiers and a custom made neural network.
+5. On the analysis of the performance, the best performing model is selected on the basis of certain matrices and the model is used for multi-label classification.
+6. The evaluation is performed and results are analysed accordingly.
+
+## The custom Neural Network model (HAR-Net):
+
+
 
 
