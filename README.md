@@ -32,6 +32,9 @@ And the activities recorded are as follows:
 
 ## The custom Neural Network model (HAR-Net):
 
+![image](https://user-images.githubusercontent.com/66628385/89117816-83e63b80-d4be-11ea-9f86-787ad8dae6d4.png)
+
+
 
 
 
