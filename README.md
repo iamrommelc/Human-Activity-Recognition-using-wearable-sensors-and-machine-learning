@@ -50,7 +50,7 @@ f. License
 
 # Keywords:
 
-Activity Recognition, Smartphone, Sensors, Multi-label classification, Neural Network, Machine Learning
+Activity Recognition, Smartphone, Sensors, Multi-label classification, Neural Network, Machine Learning.
 
 
 
